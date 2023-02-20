@@ -1,0 +1,16 @@
+.multiSelect {
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+.msl {
+  overflow: hidden;
+  border: 3px solid green;
+  border-radius: var(--border-radius);
+  outline: none;
+  cursor: text;
+  transition: border-radius 0.2s;
+}
+.msl-options {
+  background-color: green;
+}

@@ -1,0 +1,12 @@
+.GetValue {
+  display: flex;
+  flex-direction: column;
+}
+.input1 {
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+.input2 {
+  margin-right: 10px;
+}

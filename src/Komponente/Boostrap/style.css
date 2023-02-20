@@ -1,0 +1,15 @@
+.container {
+  justify-content: center;
+  display: flex;
+}
+.form-control {
+  width: 250px !important;
+}
+.Col {
+  padding-top: 20px;
+}
+.buttons {
+  justify-content: center;
+  display: flex;
+  padding: 10px;
+}

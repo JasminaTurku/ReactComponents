@@ -1,0 +1,22 @@
+.image {
+  text-align: center;
+  margin-top: 30px;
+  display: inline;
+}
+.flex_row {
+  justify-content: center;
+  padding: 20px;
+  display: flex;
+}
+
+.thumbnail {
+  padding-left: 20px;
+  display: flex;
+}
+.clicked {
+  border: 5px solid black;
+}
+body {
+  justify-content: center;
+  display: flex;
+}

@@ -1,0 +1,27 @@
+.main-slide {
+  padding-top: 30px;
+}
+.carousel .slider-wrapper {
+  width: 50%;
+}
+
+.carousel .thumb {
+  width: 10%;
+  height: 80px;
+}
+
+.carousel {
+  text-align: center;
+}
+
+.carousel .carousel-slider {
+  width: 60%;
+}
+.slide_selected {
+  display: flex !important;
+  justify-content: space-around !important;
+}
+.thumbs-wrapper_axis-vertical {
+  display: flex !important;
+  justify-content: center !important;
+}

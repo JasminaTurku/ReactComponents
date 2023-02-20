@@ -1,0 +1,28 @@
+.Popup {
+  margin-top: 10px;
+}
+.buttonOpen {
+  display: flex;
+  justify-content: center;
+}
+.povrsina {
+  height: 400px;
+  width: 50%;
+  background-color: rgb(147, 253, 147);
+  position: absolute;
+  right: 25%;
+  top: 70px;
+}
+.popup-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px 0 15px;
+  border-bottom: 2px solid black;
+}
+.main {
+  background-color: rgb(204, 202, 202);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
